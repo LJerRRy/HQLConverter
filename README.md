@@ -1,2 +1,3 @@
-# I need to review my java skills, I want to find a pretty java job.
-java IO Stream
+# HQL Parse and converter
+## first HQL Parse
+## then convert the resultset using rule
